@@ -10,11 +10,6 @@ data_parents_higher: Dataset containing math scores of students whose parents at
 
 data_parents_nothigher: Dataset containing math scores of students whose parents did not attain higher education.
 
-analysis.py: Python script performing the statistical analysis, including:
-  Calculation of Pearson correlation coefficients.
-  Permutation testing to evaluate the significance of observed differences.
-  Comparison of mean math scores between groups.
-
 ## Key Analyses
 
 1. Pearson Correlation Coefficient:
